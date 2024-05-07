@@ -15,3 +15,5 @@
   {name: 'лучник', health: 80},
   {name: 'мечник', health: 10},
 ]
+
+[![Build status](https://ci.appveyor.com/api/projects/status/bw5uq8xyeuacsswv?svg=true)](https://ci.appveyor.com/project/Q1unt/matchers)
